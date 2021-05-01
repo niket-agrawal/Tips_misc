@@ -44,12 +44,15 @@ This should stop updates. But if you still feel Win10 is invading your privacy b
 *	Step 11 - Click OK.
 *	Step 12 - Close the Registry to complete the task.
 
-<img src="3_01.png" data-canonical-src="3_01.png" width="400"/>
 Picture:1
-<img src="3_02.png" data-canonical-src="3_01.png" width="400"/>
+<img src="3_01.png" data-canonical-src="3_01.png" width="400"/>
+
 Picture:2
-<img src="3_03.png" data-canonical-src="3_01.png" width="400"/>
+<img src="3_02.png" data-canonical-src="3_02.png" width="400"/>
+
 Picture:3
-<img src="3_04.png" data-canonical-src="3_01.png" width="400"/>
+<img src="3_03.png" data-canonical-src="3_03.png" width="400"/>
+
 Picture:4
+<img src="3_04.png" data-canonical-src="3_04.png" width="400"/>
 <!-- ![alt text](3_01.png) -->
