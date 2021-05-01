@@ -26,6 +26,12 @@ This is the lowest level of control. But since Win10 is more focussed on pusing 
 
 This should stop updates. But if you still feel Win10 is invading your privacy by recusively changing your update settings, then you can make changes to registry.
 
+Picture:1
+<img src="2_01.png" data-canonical-src="3_01.png" width="400"/>
+
+Picture:2
+<img src="2_02.png" data-canonical-src="3_02.png" width="500"/>
+
 ## Level 3 - by changing Registry Values -
 * Step 1 - Use the shortcut `[Windows+R]` key to open the Run command.
 *	Step 2 - Type `regedit`, and click OK to open the `RegistryEditor`.
@@ -48,11 +54,11 @@ Picture:1
 <img src="3_01.png" data-canonical-src="3_01.png" width="400"/>
 
 Picture:2
-<img src="3_02.png" data-canonical-src="3_02.png" width="400"/>
+<img src="3_02.png" data-canonical-src="3_02.png" width="500"/>
 
 Picture:3
-<img src="3_03.png" data-canonical-src="3_03.png" width="400"/>
+<img src="3_03.png" data-canonical-src="3_03.png" width="500"/>
 
 Picture:4
-<img src="3_04.png" data-canonical-src="3_04.png" width="400"/>
+<img src="3_04.png" data-canonical-src="3_04.png" width="500"/>
 <!-- ![alt text](3_01.png) -->
