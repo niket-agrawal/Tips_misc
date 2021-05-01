@@ -15,14 +15,14 @@ This is the lowest level of control. But since Win10 is more focussed on pusing 
 * Step 1 - Use the shortcut `[Windows+R]` key to open the Run command.
 *	Step 2 - Type `gpedit.msc` and click OK to open the Local Group Policy Editor.
 *	Step 3 - Browse the following path: `Computer Configuration\Administrative Templates\Windows Components\Windows Update`
-*	Step 4 - Double-click the `"Configure Automatic Updates"` policy.
+*	Step 4 - Double-click the `"Configure Automatic Updates"` policy. (see pic 1)
 *	Step 5 - On the left side, check the `Enabled` option to enable the policy. 
 *	Under Options, you'll find a number of ways to configure automatic updates, like:
     * `2` - "Notify for download and notify for install."
     * `3` - "Auto download and notify for install."
     * `4` - "Auto download and schedule the install."
     * `5` - "Allow local admin to choose setting."
-* Step 6 - Best choice is `2 - Notify for download and notify for install`. It will prevent the OS from downloading updates automatically, but you'll get a notification when new updates are available. Updates won't download and install until you'll click them manually.
+* Step 6 - Best choice is `2 - Notify for download and notify for install`. It will prevent the OS from downloading updates automatically, but you'll get a notification when new updates are available. Updates won't download and install until you'll click them manually. (see pic 2)
 
 This should stop updates. But if you still feel Win10 is invading your privacy by recusively changing your update settings, then you can make changes to registry.
 
