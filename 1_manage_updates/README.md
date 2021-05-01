@@ -43,3 +43,5 @@ This should stop updates. But if you still feel Win10 is invading your privacy b
     * `5` - "Allow local admin to choose setting."
 *	Step 11 - Click OK.
 *	Step 12 - Close the Registry to complete the task.
+
+![alt text](3_1.png)
