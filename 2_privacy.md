@@ -19,7 +19,7 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 
 - - - - 
 
-### Google search engine alternatives ###
+## Search engine — Google alternatives ###
 
 * [DuckDuckGo](https://duckduckgo.com/) - US based
 * [Qwant](https://www.qwant.com/) - France based
@@ -34,7 +34,7 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [WolframAlpha](https://www.wolframalpha.com/) - ask anything
 
 
-### Gmail alternatives ###
+## email service — Gmail alternatives ###
 
 * [ProtonMail](https://protonmail.com/) - Switzerland based
 * [Mailfence](https://mailfence.com/) - Belgium based
@@ -44,7 +44,7 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [YahooMail](https:/ymail.com/) - not very secure (Yahoo!)
 * [Use temporary emails whenever possible](https://duckduckgo.com/?q=temporary+emails)
 
-### Google Chrome alternatives ###
+## Internet browsers - Chrome alternatives ###
 
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - non-chromium based + open source
 * [Brave](https://brave.com/) - chromium based but privacy focussed
@@ -52,9 +52,28 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [Iridium](https://iridiumbrowser.de/) - chromium based
 * [Bromite](https://www.bromite.org/) - chromium based for Android
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - if you really love Chrome
-* Opera and Edge have great features, but own set of privacy concerns
+* Opera and Edge have great features, but with own set of privacy concerns
 
+## Cloud service - Drive alternatives ###
 
+**NEVER trust** any cloud storage with your sensitive/ massive data. If possible, use **external SSD/ pen drive** with you to keep your documents and **backup manually**. If it is really required to access something remotely, you can use following. Remember: **"The best cloud and VPN are paid becuase it needs storage space to run."**
+* [IceDrive](https://icedrive.net/) - UK based (10 GB with free account)
+* [Tresorit](https://tresorit.com/) - Swiss based (3 GB with free account)
+* [Sync](https://www.sync.com/) - Canada based (5 GB with free account)
+* [tCloud](https://tcloud.smartron.com/) - India based (not very good with security)
+* Not best, but still better cloud services than G-Drive - [One-Drive](https://onedrive.live.com/), [Dropbox](https://www.dropbox.com/), [Box](https://www.box.com/)
+* [Nextcloud](https://nextcloud.com/) - open-source (self-hosted instances)
+* [ownCloud](https://owncloud.com/) - self-hosted instances
+* [Syncthing](https://syncthing.net/) - self-hosted cloud
+
+## Online office - Google Docs/Sheets/Slides alternative
+* [CryptPad](https://cryptpad.fr/) - France based (very strong encryption)
+* [Etherpad](https://etherpad.org/) - self-hosted
+* [Cryptee](https://crypt.ee/) - Estonia based (100 MB free docs)
+* [Aspose](https://www.aspose.app/) - not much feature rich, but might come handy
+* [LibreOffice](https://www.libreoffice.org/) - offline, but best alternative to MS Office
+* [OpenOffice](https://www.openoffice.org/) - offline, not feaure rich
+* [MS Office online](https://onedrive.live.com/) - Not best, but still better cloud services than G-Drive 
 
 
     
