@@ -1,41 +1,63 @@
-Basic Privacy Guide - untrack yourself<a name="TOP"></a>
+Untrack Yourself - basic privacy guide <a name="TOP"></a>
 ===================
 
 ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.com/watch?v=7mqR_e2seeM&feature=emb_imp_woyt "Social Dilemma")___
 
 * “Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke [(see)](https://lab.cccb.org/en/arthur-c-clarke-any-sufficiently-advanced-technology-is-indistinguishable-from-magic/)
-* "There are only two industries that call their customers 'users': illegal drusgs and software." — Edward Tufte
+
+* "There are only two industries that call their customers 'users': illegal drugs and software." — Edward Tufte
+
 * "We’re training and conditioning a whole new generation of people that when we are uncomfortable or lonely or uncertain or afraid we have a digital pacifier for ourselves that is kind of atrophying our own ability to deal with that." — Tristan Harris
+
 * "Imagine for a second, if Wikipedia said, _'We're gonna give each person a different customized definition, and we're gonna be paid by advertisers for that.'_ Then Wiki would study you, and change the entry. That's exactly what's happening on Facebook/ Youtube feed/ Google search results." — Jaron Lanier
-* "Is this the last generation of people that are goona know what it was like before this illusion took place? Like, how do you wake up from the matrix when you don;t know you're in the matrix?" — Tristan Harris [(see)](https://www.jmlalonde.com/quotes-and-leadership-lessons-from-the-social-dilemma/)
-* "We live in a world in which a tree is worth more, financially, dead than alive, in a world in which a whale is worth more dead than alive. For so long as our economy works in that way and cooperations go unregulated they're going to continue to destroy trees, to kill whales, to mine the earth, and to continue to pull oil out of the ground, even though we know it is destroying the planet and we know that it's going to leave a worse world for future generations. Now we're the tree, we're the whale. Our attention can be mined. We are more profitable to a corporation if we're spending time starting at a screen, staring at an ad." — Justin Rosenstein
 
-<p align=center> :exclamation: "If you are not paying for it, you're not the costomer; you're the product being sold." — <a href="https://quoteinvestigator.com/2017/07/16/product/">blue_beetle</a> :exclamation: </p>
+* "Is this the last generation of people that are gonna know what it was like before this illusion took place? Like, how do you wake up from the matrix when you don't know you're in the matrix?" — Tristan Harris [(see)](https://www.jmlalonde.com/quotes-and-leadership-lessons-from-the-social-dilemma/)
 
+* "We live in a world in which a tree is worth more, financially, dead than alive, in a world in which a whale is worth more dead than alive. For so long as our economy works in that way and cooperations go unregulated they're going to continue to destroy trees, to kill whales, to mine the earth, and to continue to pull oil out of the ground, even though we know it is destroying the planet, and we know that it's going to leave a worse world for future generations. Now we're the tree, we're the whale. Our attention can be mined. We are more profitable to a corporation if we're spending time starting at a screen, staring at an ad." — Justin Rosenstein
 
-
-
+<p align=center> :exclamation: "If you are not paying for it, you're not the customer; you're the product being sold." — <a href="https://quoteinvestigator.com/2017/07/16/product/">blue_beetle</a> :exclamation: </p>
 
 - - - - 
-# Heading 1 #
 
-    Markup :  # Heading 1 #
+### Google search engine alternatives ###
 
-    -OR-
+* [DuckDuckGo](https://duckduckgo.com/) - US based
+* [Qwant](https://www.qwant.com/) - France based
+* [Swisscows](https://swisscows.com/) - Switzerland based
+* [Metager](https://metager.org/) - German
+* [Yandex](https://yandex.com/) - Russian
+* [SearX](https://searx.me/) - open source
+* [Mojeek](https://www.mojeek.com/) - UK based
+* [Brave Search](https://search.brave.com/) - Brave browser based
+* [Ecosia](https://www.ecosia.org/) - save trees
+* [OneSearch](https://www.onesearch.com/)
+* [WolframAlpha](https://www.wolframalpha.com/) - ask anything
 
-    Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+### Gmail alternatives ###
 
-    Markup :  ## Heading 2 ##
+* [ProtonMail](https://protonmail.com/) - Switzerland based
+* [Mailfence](https://mailfence.com/) - Belgium based
+* [Tutanota](https://tutanota.com/) - German, very very secure
+* [CTemplar](https://ctemplar.com/) - Island based
+* [Outlook](https://outlook.com/) - not very secure (Microsoft)
+* [YahooMail](https:/ymail.com/) - not very secure (Yahoo!)
+* [Use temporary emails whenever possible](https://duckduckgo.com/?q=temporary+emails)
 
-    -OR-
+### Google Chrome alternatives ###
 
-    Markup: --------------- (below H2 text)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - non-chromium based + open source
+* [Brave](https://brave.com/) - chromium based but privacy focussed
+* for Android - [Via browser](https://play.google.com/store/apps/details?id=mark.via.gp&hl=en_US&gl=US), and [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US&gl=US)
+* [Iridium](https://iridiumbrowser.de/) - chromium based
+* [Bromite](https://www.bromite.org/) - chromium based for Android
+* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - if you really love Chrome
+* Opera and Edge have great features, but own set of privacy concerns
 
-### Heading 3 ###
 
-    Markup :  ### Heading 3 ###
+
+
+    
 
 #### Heading 4 ####
 
