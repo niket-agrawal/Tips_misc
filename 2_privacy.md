@@ -33,7 +33,6 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [OneSearch](https://www.onesearch.com/)
 * [WolframAlpha](https://www.wolframalpha.com/) - ask anything
 
-
 ## email service — Gmail alternatives ###
 
 * [ProtonMail](https://protonmail.com/) - Switzerland based
@@ -43,6 +42,12 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [Outlook](https://outlook.com/) - not very secure (Microsoft)
 * [YahooMail](https:/ymail.com/) - not very secure (Yahoo!)
 * [Use temporary emails whenever possible](https://duckduckgo.com/?q=temporary+emails)
+
+## Google meet/ Zoom/ Teams alternatives
+* [matrix](https://matrix.org/clients/) - suggested by Ed Snowden
+* [Signal](https://signal.org/)
+* [Telegram](https://telegram.org/)
+* [jitsi meet](https://meet.jit.si/) - open source meeting
 
 ## Internet browsers - Chrome alternatives ###
 
@@ -66,14 +71,32 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [ownCloud](https://owncloud.com/) - self-hosted instances
 * [Syncthing](https://syncthing.net/) - self-hosted cloud
 
-## Online office - Google Docs/Sheets/Slides alternative
+## Online office - Google Docs/Sheets/Slides alternatives
 * [CryptPad](https://cryptpad.fr/) - France based (very strong encryption)
 * [Etherpad](https://etherpad.org/) - self-hosted
 * [Cryptee](https://crypt.ee/) - Estonia based (100 MB free docs)
 * [Aspose](https://www.aspose.app/) - not much feature rich, but might come handy
 * [LibreOffice](https://www.libreoffice.org/) - offline, but best alternative to MS Office
 * [OpenOffice](https://www.openoffice.org/) - offline, not feaure rich
-* [MS Office online](https://onedrive.live.com/) - Not best, but still better cloud services than G-Drive 
+* [MS Office online](https://www.office.com/) - Not best, but still better cloud services than G-Drive 
+
+## Google/ Apple maps alternatives
+* [Open Street Maps](https://www.openstreetmap.org/)
+* [Here WeGo](https://wego.here.com/) - ad supported
+* [Bing Maps](https://www.bing.com/maps) - not much secure, but feature rich
+
+## Miscellaneous alternatives
+* **Google photos alternatives —** [Piwigo](https://piwigo.org/), [Lychee](https://lychee.electerious.com/) and [Photoprism](https://photoprism.app/) (all self hosted)
+* **Youtube alternatives —** [Invidious](https://redirect.invidious.io/) instances are best - [GitHub](https://github.com/iv-org/invidious)
+* **Google translate alternatives —** [DeepL](https://www.deepl.com/translator), and [Linguiee](https://www.linguee.com/) (but works well only for European languages)
+* **Windows/ Andriod/ ChromeOS/ MacOS/ iOS alternatives —** [Linux](https://distrowatch.com/dwres.php?resource=major) is arguably the best alternative for desktop, and [Sailfish OS](https://sailfishos.org/) is the most beautiful mobile OS. [Lineage OS](https://www.lineageos.org/) is also good if you love Android.
+* **Google forms alternatives —** [Jot form](https://www.jotform.com/)
+* **Google Keep/ Evernote/ Microsoft notes alternatives —** [Standard notes](https://standardnotes.com/) and [QOwnNotes](https://www.qownnotes.org/)
+* **Google fonts (for websites) —** [Font Squirrel](https://www.fontsquirrel.com/)
+
+
+
+
 
 
     
