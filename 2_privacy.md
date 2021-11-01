@@ -86,20 +86,19 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [Bing Maps](https://www.bing.com/maps) - not much secure, but feature rich
 
 ## Miscellaneous alternatives
-* **Google photos alternatives —** [Piwigo](https://piwigo.org/), [Lychee](https://lychee.electerious.com/) and [Photoprism](https://photoprism.app/) (all self hosted)
-* **Spotify alternative —** [Spotfy](https://spotfy.one/)
-* **Instagram alternatives —** [Bibliogram](https://bibliogram.art/) - [sourcehut](https://git.sr.ht/~cadence/bibliogram-docs/tree/master), some more [instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
-* **Twitter alternative —** [Nitter](https://nitter.net/), some more [instances](https://github.com/zedeus/nitter/wiki/Instances)
 * **Youtube alternatives —** [Invidious](https://redirect.invidious.io/) instances are best - [GitHub](https://github.com/iv-org/invidious), [Piped](https://piped.kavin.rocks/)
-* **Reddit alternative —** [teddit](https://teddit.net/) - [codeberg](https://codeberg.org/teddit/teddit)
+* **Spotify alternative —** [Spotfy](https://spotfy.one/)
+* **Instagram alternative —** [Bibliogram](https://bibliogram.art/) - [sourcehut](https://git.sr.ht/~cadence/bibliogram-docs/tree/master), some more [instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
+* **Twitter alternative —** [Nitter](https://nitter.net/), some more [instances](https://github.com/zedeus/nitter/wiki/Instances)
 * **Medium alternative —** [Scribe](https://scribe.rip/) - [sourcehut](https://sr.ht/~edwardloveall/scribe/)
+* **Reddit alternative —** [teddit](https://teddit.net/) - [codeberg](https://codeberg.org/teddit/teddit)
+* **Wikipedia alternative —** [Wikiless](https://wikiless.org/) - [codeberg](https://codeberg.org/orenom/Wikiless)
+* **Google photos alternatives —** [Piwigo](https://piwigo.org/), [Lychee](https://lychee.electerious.com/) and [Photoprism](https://photoprism.app/) (all self hosted)
 * **Google translate alternatives —** [DeepL](https://www.deepl.com/translator), and [Linguiee](https://www.linguee.com/) (but works well only for European languages)
 * **Windows/ Andriod/ ChromeOS/ MacOS/ iOS alternatives —** [Linux](https://distrowatch.com/dwres.php?resource=major) is arguably the best alternative for desktop, and [Sailfish OS](https://sailfishos.org/) is the most beautiful mobile OS. [Lineage OS](https://www.lineageos.org/) is also good if you love Android.
 * **Google forms alternatives —** [Jot form](https://www.jotform.com/)
 * **Google Keep/ Evernote/ Microsoft notes alternatives —** [Standard notes](https://standardnotes.com/) and [QOwnNotes](https://www.qownnotes.org/)
 * **Google fonts (for websites) —** [Font Squirrel](https://www.fontsquirrel.com/)
-
-
 
 
 ___Extra :___ :thumbsup: Visit [Substack](https://substack.com/) and [Medium](https://medium.com/) for excellent articles, read this by Edward Snowden for example: [Apophenia: 
