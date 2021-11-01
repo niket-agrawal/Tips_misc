@@ -87,7 +87,12 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 
 ## Miscellaneous alternatives
 * **Google photos alternatives —** [Piwigo](https://piwigo.org/), [Lychee](https://lychee.electerious.com/) and [Photoprism](https://photoprism.app/) (all self hosted)
-* **Youtube alternatives —** [Invidious](https://redirect.invidious.io/) instances are best - [GitHub](https://github.com/iv-org/invidious)
+* **Spotify alternative —** [Spotfy](https://spotfy.one/)
+* **Instagram alternatives —** [Bibliogram](https://bibliogram.art/) - [sourcehut](https://git.sr.ht/~cadence/bibliogram-docs/tree/master), some more [instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
+* **Twitter alternative —** [Nitter](https://nitter.net/), some more [instances](https://github.com/zedeus/nitter/wiki/Instances)
+* **Youtube alternatives —** [Invidious](https://redirect.invidious.io/) instances are best - [GitHub](https://github.com/iv-org/invidious), [Piped](https://piped.kavin.rocks/)
+* **Reddit alternative —** [teddit](https://teddit.net/) - [codeberg](https://codeberg.org/teddit/teddit)
+* **Medium alternative —** [Scribe](https://scribe.rip/) - [sourcehut](https://sr.ht/~edwardloveall/scribe/)
 * **Google translate alternatives —** [DeepL](https://www.deepl.com/translator), and [Linguiee](https://www.linguee.com/) (but works well only for European languages)
 * **Windows/ Andriod/ ChromeOS/ MacOS/ iOS alternatives —** [Linux](https://distrowatch.com/dwres.php?resource=major) is arguably the best alternative for desktop, and [Sailfish OS](https://sailfishos.org/) is the most beautiful mobile OS. [Lineage OS](https://www.lineageos.org/) is also good if you love Android.
 * **Google forms alternatives —** [Jot form](https://www.jotform.com/)
