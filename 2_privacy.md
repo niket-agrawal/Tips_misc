@@ -48,6 +48,7 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * [Signal](https://signal.org/)
 * [Telegram](https://telegram.org/)
 * [jitsi meet](https://meet.jit.si/) - open source meeting
+* [Brave Talk](https://talk.brave.com/) - Brave browser based
 
 ## Internet browsers - Chrome alternatives ###
 
