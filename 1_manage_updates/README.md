@@ -1,4 +1,36 @@
-# Win10 update management
+# Win10 update management (newer - tested on Version 20H2, build 19042.1348)
+
+### To manage Win10 automatic update settings
+
+This article will helo to change settings, Local Group Policy Editor for update management. Alongwith these, it has also instructions to change registry values.
+
+## Level-1 - by changing Settings -
+- Step 1 - Go to `Settings` > `Update and Security` > `Windows Update`
+-	Step 2 - Click `Advanced Options`
+-	Step 3 - Grant minimum permissions to Windows
+This is the lowest level of control. But since Win10 is more focussed on pusing updates these days, it might still push updates. So, move to Level-2 for update management.
+
+## Level-2 - by changing Windows Services -
+*  Step 1 - Use the shortcut `[Windows+R]` key to open the Run command.
+*	Step 2 - Type `services.msc` and click OK to open the Windows Services.
+*	Step 3 - Go to `Windows Update`, startup type `Disabled`, log-on your account with wrong password, and fill `take-no-action` in recovery options
+*	Step 4 - Go to `Update Orchestrator Service`, startup type `Disabled` and fill `take-no-action` in recovery options
+
+## Level 3 - by changing Registry Values -
+*  Step 1 - Use the shortcut `[Windows+R]` key to open the Run command.
+*	Step 2 - Type `regedit`, and click OK to open the `RegistryEditor`.
+*	Step 3 - Browse the following path: `Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\UsoSvc`
+*	         `Value Data` for `start` = 4
+*	Read more on: https://www.thewindowsclub.com/update-orchestrator-service-in-windows-10
+*	Step 3 - Browse the following path: `Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\WaaSMedicSvc`
+*	         `Value Data` for `start` = 4
+*	Read more on: https://www.thewindowsclub.com/windows-update-medic-service
+
+### See this [youtube video](https://www.youtube.com/watch?v=gDBEW0-pAYM) for step-by-step follow.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+# Win10 update management (older - deprecated)
 
 ### To manage Win10 automatic update settings
 
