@@ -101,6 +101,6 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 * **Google Keep/ Evernote/ Microsoft notes alternatives —** [Standard notes](https://standardnotes.com/) and [QOwnNotes](https://www.qownnotes.org/)
 * **Google fonts (for websites) —** [Font Squirrel](https://www.fontsquirrel.com/)
 
-
+https://pussthecat.org/
 ___Extra :___ :thumbsup: Visit [Substack](https://substack.com/) and [Medium](https://medium.com/) for excellent articles, read this by Edward Snowden for example: [Apophenia: 
 How the Internet Transforms the Individual into a Conspiracy of One](https://edwardsnowden.substack.com/p/conspiracy-pt2)
