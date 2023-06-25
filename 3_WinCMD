@@ -1,0 +1,2 @@
+How to join audio files in windows natively,
+copy /b file1.mp3 + file2.mp3 file_joined.mp3
