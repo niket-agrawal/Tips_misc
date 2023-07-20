@@ -104,3 +104,14 @@ ___This post is highly inspired from ["The Social Dilemma"](https://www.youtube.
 https://pussthecat.org/
 ___Extra :___ :thumbsup: Visit [Substack](https://substack.com/) and [Medium](https://medium.com/) for excellent articles, read this by Edward Snowden for example: [Apophenia: 
 How the Internet Transforms the Individual into a Conspiracy of One](https://edwardsnowden.substack.com/p/conspiracy-pt2)
+
+___Extra :___ 
+Enable Do Not Track even if it doesn't do much
+Use Anti-Trackers like Ghostery or Abine Blur
+Do not sign into your Google or YouTube accounts
+Preferably use another Browser with no History, and do not use Google Chrome (duh!)
+Always Clear or Pause Watch and Search History (History - YouTube)
+Turn off Ad Personalisation (https://www.google.com/settings/ads/anonymous)
+Opt-out from Interest-based Ads (http://optout.networkadvertising.org/#/)
+Install (Google Analytics Opt-out Add-on (by Google)) for Chromium/based
+https://optout.aboutads.info/?c=2&lang=EN
